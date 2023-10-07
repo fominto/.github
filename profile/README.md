@@ -1,3 +1,5 @@
+![Github viewers](https://komarev.com/ghpvc/?username=fominto&color=red&style=for-the-badge)
+
 # Fominto Eats (Delivery)
 - Número do Projeto: 001
 - Data de Início: 07/10/2023
