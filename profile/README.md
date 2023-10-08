@@ -1,5 +1,7 @@
 ![Github viewers](https://komarev.com/ghpvc/?username=fominto&color=red&style=for-the-badge)
 
+<img src="https://avatars.githubusercontent.com/u/147281937?s=200&v=4" />
+
 # Fominto Eats (Delivery)
 
 - Número do Projeto: 001
