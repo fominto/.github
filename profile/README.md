@@ -39,5 +39,5 @@
 | ------------- | ------------- | ------------- |
 | <img src="https://avatars.githubusercontent.com/u/65857778?v=4" width="100px"/> | Leonardo Aragão | <a href="https://github.com/lewoaragao">@lewoaragao</a> |
 | <img src="https://avatars.githubusercontent.com/u/35476079?v=4" width="100px"/> | Roberto Bezerra | <a href="https://github.com/robertogbezerra">@robertogbezerra</a> |
-| <img src="https://avatars.githubusercontent.com/u/102976228?v=4" width="100px"/> | Amauri Matias | <a href="https://github.com/ADSAmauriMatias">@adsamaurimatias</a> |
+| <img src="https://avatars.githubusercontent.com/u/40769702?v=4" width="100px"/> | Amauri Matias | <a href="https://github.com/Amaurimatias">@adsamaurimatias</a> |
 
